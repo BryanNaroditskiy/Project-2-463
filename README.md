@@ -16,7 +16,7 @@
 
 **Usage**
 1. Place your crime dataset (in CSV format) in the same directory as the script.
-2. ```bash python crime.py```
+2. bash ```python crime.py```
 
 # Structure of the Code
 ![image](https://github.com/user-attachments/assets/5d0975a4-4cd0-46ee-acf7-9cdbf56206d9)
