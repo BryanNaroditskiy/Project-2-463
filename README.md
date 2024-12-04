@@ -47,5 +47,26 @@ The flowchart outlines the steps for predicting the next season's crime rate. It
 
 * Future crime rates were predicted for the next season.
 
+# Showcasing the Achievement of Project Goals
 
+**Results:**
 
+* Successfully predicted crime rates for the next season.
+
+* Identified the safest path in the dataset area using Dijkstra's algorithm.
+
+* The results align with the project objectives by enhancing public safety through predictive analytics and algorithmic pathfinding.
+
+# Discussion and Conclusions
+
+**Discussion:**
+
+* Issues: Some limitations include the potential for incomplete or outdated data, which can affect prediction accuracy.
+
+* Limitations: The model assumes a static crime rate, while in reality, crime patterns can change dynamically.
+
+* Application of Course Learning: This project applied concepts of data analysis, sorting algorithms, graph theory, and pathfinding algorithms learned during the course.
+
+**Conclusions:**
+
+The project successfully demonstrated the application of academic concepts to a real-world problem, providing valuable insights into crime data and enhancing public safety through predictive analytics and pathfinding.
