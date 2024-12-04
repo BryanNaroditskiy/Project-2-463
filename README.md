@@ -1,10 +1,10 @@
 # Project-2-463
 
-# Goal of the Project
-**Objectives:** The primary objective of this project is to develop a system that analyzes crime data to predict future crime rates and determine the safest paths in a given area to avoid high-risk zones. The project leverages historical crime data to provide predictive insights and to implement a pathfinding algorithm that minimizes exposure to crime-prone areas.
+**Goal of the Project**
+**Objectives: ** The primary objective of this project is to develop a system that analyzes crime data to determine the safest paths in a given area to avoid high-risk zones. The project leverages historical crime data to provide predictive insights and to implement a pathfinding algorithm that minimizes exposure to crime-prone areas.
 
 # Significance of the Project
-**Meaningfulness and Novelty:** This project is meaningful because it aims to enhance public safety by utilizing data analytics and algorithmic solutions to predict and avoid potential crime scenarios. Its novelty lies in the integration of crime data analysis with Dijkstra's algorithm to identify the safest routes, providing a practical application of academic concepts in a real-world scenario.
+**Meaningfulness and Novelty:** This project is meaningful because it aims to enhance public safety by utilizing data analytics and algorithmic solutions to predict and avoid potential crime scenarios. Its novelty lies in the integration of crime data analysis with Dijkstra's algorithm to identify the safest routes, providing a practical application of academic concepts in a real-world scenario
 
 # Installation and Instruction to Use
 **Installation:**
@@ -19,8 +19,9 @@
 2. ``` bash python crime.py```
 
 # Structure of the Code
-![image](https://github.com/user-attachments/assets/5d0975a4-4cd0-46ee-acf7-9cdbf56206d9)
-The flowchart outlines the steps for predicting the next season's crime rate. It begins by checking for necessary libraries, installing them if they are missing (like pandas, collections, and heapq). Once the libraries are installed, the process involves loading and preprocessing the dataset, extracting the month for sorting, implementing Dijkstra's algorithm to find the safest paths, counting crimes per month, and finally predicting the next season's crime rate based on the data analysis. The flowchart ensures a systematic approach to crime data analysis and safety pathfinding.
+![image](https://github.com/user-attachments/assets/7b43d396-d6a5-4f85-8a66-59ba5361acf0)
+
+The flowchart outlines the steps for determining the safest path based on historical crime data. It begins by checking for necessary libraries, installing them if they are missing (like pandas, collections, and heapq). Once the libraries are installed, the process involves loading and preprocessing the dataset, extracting the month for sorting, implementing Dijkstra's algorithm to find the safest paths, and counting crimes per month. The flowchart ensures a systematic approach to crime data analysis and safety pathfinding.
 
 # Functionalities and Test Results
 **Functionalities:**
@@ -33,7 +34,7 @@ The flowchart outlines the steps for predicting the next season's crime rate. It
 
 * Find the safest path using Dijkstra's algorithm.
 
-* Predict future crime rates.
+* Count crimes per month.
 
 **Test Results:**
 
@@ -45,13 +46,10 @@ The flowchart outlines the steps for predicting the next season's crime rate. It
 
 * The safest path was determined using Dijkstra's algorithm.
 
-* Future crime rates were predicted for the next season.
 
 # Showcasing the Achievement of Project Goals
 
 **Results:**
-
-* Successfully predicted crime rates for the next season.
 
 * Identified the safest path in the dataset area using Dijkstra's algorithm.
 
@@ -69,4 +67,4 @@ The flowchart outlines the steps for predicting the next season's crime rate. It
 
 **Conclusions:**
 
-The project successfully demonstrated the application of academic concepts to a real-world problem, providing valuable insights into crime data and enhancing public safety through predictive analytics and pathfinding.
+The project successfully demonstrated the application of academic concepts to a real-world problem, providing valuable insights into crime data and enhancing public safety through data analysis and pathfinding.
