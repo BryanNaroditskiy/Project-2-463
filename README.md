@@ -1,6 +1,6 @@
 # Project-2-463
 
-**Goal of the Project**
+#Goal of the Project
 **Objectives: ** The primary objective of this project is to develop a system that analyzes crime data to determine the safest paths in a given area to avoid high-risk zones. The project leverages historical crime data to provide predictive insights and to implement a pathfinding algorithm that minimizes exposure to crime-prone areas.
 
 # Significance of the Project
